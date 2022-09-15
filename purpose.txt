@@ -1,0 +1,14 @@
+For today, I would like to focus on certain things.
+
+Since we are learning the C language, we must focus on finishing the basics tonight.
+We also must become more fluent in R language, but that is for another time.
+
+For now, we must focus on learing:
+
+ -- Loops;
+ -- Manimulating Arrays and Strings;
+ -- Functins;
+
+ -- Pointers if you are bold;
+
+ We shall try to acomplish there and then create one final project -- the user_base.
