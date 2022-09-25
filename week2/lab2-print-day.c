@@ -39,7 +39,6 @@ int main(int argc, char *argv[])
     default:
         printf("Unknown\n");
         break;
-
     }
 
     return 0;
