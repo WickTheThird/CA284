@@ -20,8 +20,8 @@
       "args": [],
       "stopAtEntry": true,
       "externalConsole": false,
-      "cwd": "/Users/filipbumbu/Documents/GitHub/CA284/week_4",
-      "program": "/Users/filipbumbu/Documents/GitHub/CA284/week_4/build/Debug/outDebug",
+      "cwd": "/Users/filipbumbu/Documents/GitHub/ca284/week_5",
+      "program": "/Users/filipbumbu/Documents/GitHub/ca284/week_5/build/Debug/outDebug",
       "MIMode": "gdb"
     }
   ],
